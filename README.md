@@ -1,5 +1,5 @@
-# apnr
-WIP automatic number plate recognition (APNR) software for dashcams, using YOLOv5.
+# ANPR
+WIP automatic number plate recognition (ANPR) software for dashcams, using YOLOv5.
 Main target is german / EU number plates, but ideally a lot of the code should work for all kinds of plates (especially the bounding box detection)
 
 ## number plate localization
